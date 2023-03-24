@@ -1,0 +1,7 @@
+C:\Users\mikaa\source\repos\Toka\Toka\bin\Debug\Toka.exe.config
+C:\Users\mikaa\source\repos\Toka\Toka\bin\Debug\Toka.exe
+C:\Users\mikaa\source\repos\Toka\Toka\bin\Debug\Toka.pdb
+C:\Users\mikaa\source\repos\Toka\Toka\obj\Debug\Toka.csproj.AssemblyReference.cache
+C:\Users\mikaa\source\repos\Toka\Toka\obj\Debug\Toka.csproj.CoreCompileInputs.cache
+C:\Users\mikaa\source\repos\Toka\Toka\obj\Debug\Toka.exe
+C:\Users\mikaa\source\repos\Toka\Toka\obj\Debug\Toka.pdb
